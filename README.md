@@ -73,8 +73,4 @@ This project showcases an **interactive Power BI dashboard** built using Zomato'
 * Business Intelligence Reporting
 * Data Visualization Best Practices
 
----
 
-## 📸 Dashboard Preview
-
-> *(Add screenshots of your dashboard here after completion.)*
