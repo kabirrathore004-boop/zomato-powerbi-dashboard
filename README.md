@@ -1,33 +1,80 @@
-# Zomato Global Restaurant Analysis – Power BI Dashboard
+# 🍽️ Zomato Global Restaurant Analysis – Power BI Dashboard
 
-This project analyzes global restaurant data using Power BI to identify patterns in restaurant distribution, ratings, cost trends, and cuisine diversity.
+## 📌 Project Overview
 
-## Business Objectives
-- Analyze restaurant distribution across continents and cities
-- Identify top rated restaurants
-- Study cost vs rating trends
-- Explore cuisine diversity across regions
+This project showcases an **interactive Power BI dashboard** built using Zomato's global restaurant dataset. The dashboard enables users to explore restaurant performance across multiple continents through dynamic filters, drill-down analysis, and visually rich reports.
 
-## Tools Used
-- Power BI
-- Power Query
-- DAX
-- Excel
+---
 
-## Dashboard Pages
-1. Global Overview – Restaurant distribution and KPIs
-2. Ratings & Cost Analysis – Top rated and lowest cost restaurants
-3. Cuisine Analysis – Cuisine diversity across regions
+## 🎯 Business Objectives
 
-## Key Insights
-- Metropolitan cities have higher restaurant concentration
-- Higher cost does not always mean better ratings
-- Regional cuisine dominance varies significantly
+* 🌍 Analyze restaurant distribution across **continents, countries, and cities**.
+* ⭐ Identify the **highest-rated** and **lowest-cost** restaurants.
+* 💰 Compare **average cost for two** with customer ratings.
+* 🍜 Discover the **most popular and diverse cuisines** across different regions.
+* 📈 Track restaurant performance using interactive KPIs.
+* 🔍 Enable dynamic filtering by **continent, country, city, cuisine, rating, and service type**.
+* 🗺️ Visualize restaurant locations using interactive map visuals.
+* 📊 Support data-driven business decisions through actionable insights.
 
-## Skills Demonstrated
-- Data cleaning using Power Query
-- Data modeling using Star Schema
-- DAX measures creation
-- Interactive dashboard design
-## Dashboard Preview
+---
 
+## 🛠️ Tools & Technologies
+
+* Microsoft Power BI
+* Power Query
+* DAX
+* Microsoft Excel
+
+---
+
+## 📊 Dashboard Pages
+
+### 🌍 Global Overview
+
+* Total Restaurants
+* Average Rating
+* Average Cost for Two
+* Restaurant Distribution by Continent, Country & City
+* Interactive Map
+
+### ⭐ Ratings & Cost Analysis
+
+* Top-Rated Restaurants
+* Lowest-Cost Restaurants
+* Rating Distribution
+* Cost vs Rating Analysis
+
+### 🍽️ Cuisine Analysis
+
+* Most Popular Cuisines
+* Cuisine Diversity by Country
+* Restaurants Offering Multiple Cuisines
+
+---
+
+## 🚀 Features
+
+* ✅ Interactive Slicers
+* ✅ Drill-through Navigation
+* ✅ Cross-filtering Between Visuals
+* ✅ Dynamic KPIs
+* ✅ Responsive Dashboard Layout
+* ✅ Mobile-Friendly Report Design
+
+---
+
+## 💡 Skills Demonstrated
+
+* Data Cleaning using Power Query
+* Data Modeling (Star Schema)
+* DAX Measures & Calculated Columns
+* Interactive Dashboard Development
+* Business Intelligence Reporting
+* Data Visualization Best Practices
+
+---
+
+## 📸 Dashboard Preview
+
+> *(Add screenshots of your dashboard here after completion.)*
